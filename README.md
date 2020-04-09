@@ -7,17 +7,13 @@ Hanged-Man It's a game developed on Python
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries.
 
 ```bash
-pip install "Library name"
+
 ```
 
 ## Usage
 
 ```python
-import "Library name"
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
 ## Contributing
